@@ -211,7 +211,7 @@
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="7s6-L8-KPd" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" title="特濃屋" id="m8o-Z5-rsz"/>
                     <toolbarItems/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" largeTitles="YES" id="zXT-W2-qe4">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="zXT-W2-qe4">
                         <rect key="frame" x="0.0" y="20" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
@@ -230,7 +230,7 @@
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="IJE-3d-fZX" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" title="壹之穴" id="aIF-ZA-FnY"/>
                     <toolbarItems/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" largeTitles="YES" id="UTf-cs-8mf">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="UTf-cs-8mf">
                         <rect key="frame" x="0.0" y="20" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
@@ -249,7 +249,7 @@
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="nLD-fh-cSc" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" title="雞吉君" id="ZMu-B9-i7s"/>
                     <toolbarItems/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" largeTitles="YES" id="hyq-uY-Dkt">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="hyq-uY-Dkt">
                         <rect key="frame" x="0.0" y="20" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
